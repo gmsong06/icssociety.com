@@ -1,0 +1,4 @@
+baseURL = '/'
+title = 'ICSS'
+defaultContentLanguage = 'en'
+theme = "hugo-book"
