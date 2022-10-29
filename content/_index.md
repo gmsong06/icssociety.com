@@ -9,7 +9,7 @@ bookToc: false
 {{< columns >}}
 ## 2022 - 2023 members application: cyber security topics
 
-The _ICSS_ is opening for applicants on November 1st, 2022. 
+The _ICSS_ deadline for new applicants was October 21st, 2022. Late applicants may not receive full consideration, unless referred by a partner organization.
 
 <--->
 

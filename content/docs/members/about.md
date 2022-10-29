@@ -9,7 +9,7 @@ weight: 1
 * New members begin as **probationary members**, meeting weekly
 * **Lead members** act as lead authors or research organizers
 
-Meetings are conducted online, and ICSS places no geographical limiations on membership.
+Meetings are conducted online, and ICSS places no geographical limitations on membership.
 
 ## Is it easy to become a member?
 
@@ -44,7 +44,7 @@ _Informatics & Computer Science_ refers to both theoretical and applied fields o
   - Medical applications, public health
   - Earth/atmospheric data and modeling
 * Computational social sciences, e.g.:
-  - Computational sociology, lingustics
+  - Computational sociology, linguistics
   - Computational economics, finance, law
 * Computational arts, e.g.:
   - Computational design, generative art/music
