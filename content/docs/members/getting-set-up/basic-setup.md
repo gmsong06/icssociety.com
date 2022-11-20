@@ -116,3 +116,22 @@ services:
 ## 3. WireShark
 
 Install WireShark on your guest virtual machines, and test it.
+
+## 4. Windows Android Studio
+
+1. [Download Android Studio](https://developer.android.com/studio). 
+
+2. After starting, click "More Actions" and choose "Virtual Device Manager". Create a device, then choose Pixel 6 Pro -> Tiramisu -> Finish.
+
+	If you receive an error saying you could not download intel haxm, it may be because intel vt-x is not enabled. [Click here for how to enable intel vt-x](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
+
+3. Start the device, then enable developer setting and USB connectivity by going to the android Settings -> About Emulated Device -> Build Number, click this 5 times or until it says you are a developer
+
+![](https://tinypic.host/images/2022/11/19/AndroidPixel6inSettings.png)
+
+4. If you have installed HTTP Toolkit, you should now be able to connect via ADB.
+
+
+
+
+
