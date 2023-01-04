@@ -11,6 +11,8 @@ bookToc: false
 
 The _ICSS_ deadline for new applicants was October 21st, 2022. Late applicants may not receive full consideration, unless referred by a partner organization.
 
+[View 2022 - 2023](/docs/members/year/2022-to-2023/)
+
 <--->
 
 ## Our Guiding Principles
