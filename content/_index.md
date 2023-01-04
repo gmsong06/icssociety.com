@@ -11,13 +11,15 @@ bookToc: false
 
 The _ICSS_ deadline for new applicants was October 21st, 2022. Late applicants may not receive full consideration, unless referred by a partner organization.
 
+[View 2022 - 2023](/docs/members/year/2022-to-2023/)
+
 <--->
 
 ## Our Guiding Principles
 
 ICSS runs a yearly research program for pre-college students. **Members** (participants) from all around the world collaborate on research online.
 
-* **Community** A ICSS, we believe that information and computer science are deeply human fields. We strive to produce a rich online community of curious and enthusiastic learners.
+* **Community** At ICSS, we believe that information and computer science are deeply human fields. We strive to produce a rich online community of curious and enthusiastic learners.
 
 {{< /columns >}}
 
