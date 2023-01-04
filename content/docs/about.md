@@ -6,8 +6,8 @@ weight: 1
 
 **Informatics & Computer Science Society** _members_ participate in the annual research programs. They are typically pre-university students. Members jointly co-author articles and/or papers concerning topics related to informatics, computer science, and computing systems. 
 
-* New members begin as **probationary members**, meeting weekly
-* **Lead members** act as lead authors or research organizers
+* New members begin as **probationary members**, meeting weekly.
+* **Lead members** act as lead authors or research organizers.
 
 Meetings are conducted online, and ICSS places no geographical limitations on membership.
 
