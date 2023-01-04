@@ -4,7 +4,7 @@ weight: 1000
 ---
 # Email
 
-Email us at: organizers [at] icssociety [dot] com
+Email us at: organizers@icssociety.com
 
 <!--
 < button relref="/" >
